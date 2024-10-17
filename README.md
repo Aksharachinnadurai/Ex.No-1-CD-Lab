@@ -92,6 +92,8 @@ int main() {
 ```
 
 OUTPUT:
+
+
 ![377362847-7cd461bc-72a2-413b-bc37-2415b47a04ba](https://github.com/user-attachments/assets/ee8136fc-da1c-4dae-988d-268ecf24914c)
 
 RESULT:
